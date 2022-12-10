@@ -77,9 +77,10 @@ nav ul li a:hover{
     transform: translateX(-50%);
     transition: bottom 1s, left 1s;
 }
-.face{
-    width: 80%;
-    height: auto;
+.images .face{
+    /* width: 80%; */
+    height: 70%;
+    bottom: 18%;
 }
 .images:hover .shape{
     bottom: 40px;
